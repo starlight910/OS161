@@ -328,3 +328,57 @@ ls
 cd ngunau30/
 ls
 logout
+git init
+ls
+git add .
+git commit -m "Version 0"
+git push
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd startup/
+ls
+vi main.c 
+ls
+cd ..
+ls
+cd
+ls
+pmake
+pmake install
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd compile/ASST0/
+ls
+pmake
+ls
+cd ..
+ls
+cd ..
+ls
+cd compile/ASST0/
+ls
+./kernel 
+run kernel 
+ls
+cd os161/
+ls
+vi CHANGES 
+ls
+cd kern/
+ls
+cd startup/
+ls
+vi main.c m
+cd
+ls
+cd os161/
+ls
+cd
+ls
+ls

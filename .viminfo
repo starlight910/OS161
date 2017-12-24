@@ -8,7 +8,9 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
 :q!
+:w
 :q
 :Q
 
@@ -25,20 +27,28 @@
 	Clean version of os161: git clone https://github.com/arthurdent/os161.git
 
 # File marks:
-'0  104  51  ~/os161/kern/startup/main.c
-'1  99  0  ~/os161/CHANGES
-'2  1  0  ~/os161/kern/startup/main.c
-'3  54  0  ~/os161/kern/startup/main.c
-'4  30  0  ~/README
-'5  18  0  ~/README
-'6  599  0  ~/os161/kern/startup/menu.c
-'7  710  0  ~/os161/kern/startup/menu.c
-'8  4  0  ~/README
-'9  27  0  ~/README
+'0  105  1  ~/os161/kern/startup/main.c
+'1  107  0  ~/os161/kern/startup/main.c
+'2  104  14  ~/os161/kern/startup/main.c
+'3  421  2  ~/os161/kern/startup/menu.c
+'4  352  2  ~/os161/kern/startup/menu.c
+'5  1  0  ~/os161/kern/build
+'6  48  0  ~/os161/design/shell.txt
+'7  99  0  ~/os161/CHANGES
+'8  1  0  ~/os161/kern/startup/main.c
+'9  54  0  ~/os161/kern/startup/main.c
 
 # Jumplist (newest first):
--'  104  51  ~/os161/kern/startup/main.c
+-'  105  1  ~/os161/kern/startup/main.c
 -'  1  0  ~/os161/kern/startup/main.c
+-'  107  0  ~/os161/kern/startup/main.c
+-'  104  14  ~/os161/kern/startup/main.c
+-'  421  2  ~/os161/kern/startup/menu.c
+-'  1  0  ~/os161/kern/startup/menu.c
+-'  352  2  ~/os161/kern/startup/menu.c
+-'  1  0  ~/os161/kern/build
+-'  48  0  ~/os161/design/shell.txt
+-'  1  22  ~/os161/design/shell.txt
 -'  99  0  ~/os161/CHANGES
 -'  1  0  ~/os161/CHANGES
 -'  54  0  ~/os161/kern/startup/main.c
@@ -47,7 +57,6 @@
 -'  1  0  ~/README
 -'  18  0  ~/README
 -'  599  0  ~/os161/kern/startup/menu.c
--'  1  0  ~/os161/kern/startup/menu.c
 -'  710  0  ~/os161/kern/startup/menu.c
 -'  700  0  ~/os161/kern/startup/menu.c
 -'  4  0  ~/README
@@ -90,22 +99,6 @@
 -'  1  0  ~/.bash_aliases
 -'  1  0  ~/.bash_aliases
 -'  1  0  ~/.bash_aliases
--'  599  0  ~/os161/kern/startup/menu.c
--'  1  0  ~/os161/kern/startup/menu.c
--'  710  0  ~/os161/kern/startup/menu.c
--'  700  0  ~/os161/kern/startup/menu.c
--'  1  0  ~/.bash_aliases
--'  1  0  ~/.bash_aliases
--'  1  0  ~/.bash_aliases
--'  1  0  ~/.bash_aliases
--'  1  0  ~/.bash_aliases
--'  1  0  ~/.bash_aliases
--'  1  0  ~/.bash_aliases
--'  1  0  ~/.bash_aliases
--'  599  0  ~/os161/kern/startup/menu.c
--'  1  0  ~/os161/kern/startup/menu.c
--'  710  0  ~/os161/kern/startup/menu.c
--'  700  0  ~/os161/kern/startup/menu.c
 -'  1  0  ~/.bash_aliases
 -'  1  0  ~/.bash_aliases
 -'  1  0  ~/.bash_aliases
@@ -131,15 +124,35 @@
 -'  1  0  ~/.bash_aliases
 -'  1  0  ~/.bash_aliases
 -'  1  0  ~/.bash_aliases
--'  30  0  ~/README
--'  1  0  ~/README
--'  18  0  ~/README
--'  599  0  ~/os161/kern/startup/menu.c
+-'  1  0  ~/.bash_aliases
+-'  1  0  ~/.bash_aliases
+-'  1  0  ~/.bash_aliases
+-'  1  0  ~/.bash_aliases
+-'  1  0  ~/.bash_aliases
+-'  1  0  ~/.bash_aliases
+-'  1  0  ~/.bash_aliases
+-'  1  0  ~/os161/kern/build
+-'  48  0  ~/os161/design/shell.txt
+-'  1  22  ~/os161/design/shell.txt
+-'  421  2  ~/os161/kern/startup/menu.c
 
 # History of marks within files (newest to oldest):
 
 > ~/os161/kern/startup/main.c
-	"	104	51
+	"	105	1
+	^	107	1
+	.	107	0
+	+	104	16
+	+	107	0
+
+> ~/os161/kern/startup/menu.c
+	"	421	2
+
+> ~/os161/kern/build
+	"	1	0
+
+> ~/os161/design/shell.txt
+	"	48	0
 
 > ~/os161/CHANGES
 	"	99	0
@@ -149,9 +162,6 @@
 	^	66	0
 	.	66	0
 	+	66	0
-
-> ~/os161/kern/startup/menu.c
-	"	599	0
 
 > ~/.bash_aliases
 	"	1	0
