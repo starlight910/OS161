@@ -1,332 +1,4 @@
 ls
-cd os161/
-ls
-cd ..
-ls
-vi README 
-ls
-cd sys161
-ls
-cd bin/
-ls
-cd ..
-ls
-cd ..
-ls
-online
-ls
-log
-ls
-cd os161/
-ls
-./configure --ostree="$HOME/os161/root" --toolprefix="sos-"
-ls
-cd kern/
-ls
-cd conf/
-./config ASST0
-ls
-cd ..
-ls
-cd compile/
-ls
-cd ASST0/
-ls
-bmake depend
-bmake
-bmake install
-ls
-logout
-ls
--a
-ls -a
-cd os161/
-ls
-cd ..
-ls
-vi README 
-ls -l
-ls
-cd os161/
-ls
-ls -l
-ls kern
-ls
-cd ..
-ls
-vi README 
-logout
-ls
-cd os161
-ls
-cd root
-ls
-cp ~/sys161/161.conf sys161.conf
-ls
-ssh ada.evergreen.edu
-ls
-cd
-ls
-cd ..
-ls
-cd limjun10
-ls
-cd os161/
-ls
-cd ..
-ls
-vi README 
-ls
-git init
-git add *.c
-ls
-git add LICENSE
-ls
-cd ..
-ls
-cd
-ls
-cd os161/
-ls
-cd ..
-ls
-cd sys161
-ls
-cd ..
-ls
-cd os161/
-ls
-cd kern/
-ls
-cd ..
-ls
-cd root
-ls
-sys161.conf kernel-ASST0
-ls
-cd
-ls
-cd sys161
-ls
-cd ..
-ls
-cd ..
-ls
-logout
-ls
-bmake depend
-ls
-cd ~/os161/
-ls
-./configure --ostree="$HOME/os161/root" --toolprefix="sos-"
-cd kern/conf
-ls
-./config ASST0
-cd ../compile/ASST0
-bmake depend
-bmake
-bmake install
-cd ~/os161
-bmake
-ls
-git init
-cp ~/sys161/sys161.conf root
-cd root
-sys161 kernel-ASST0
-ls
-sys161 kernel-ASST0 
-ls
-cd
-ls
-git config --global user.name "starlight910"
-git config --global user.email starlight910@hotmail.com
-git remote -v
-logout
-cd ~/os161/
-./configure --ostree="$HOME/os161/root" --toolprefix="sos-"
-cd kern/conf
-./config ASST0
-cd ../compile/ASST0
-bmake depend
-bmake
-bmake install
-cd ~/os161
-bmake
-cp ~/sys161/sys161.conf root
-cd root
-sys161 kernel-ASST0
-cd
-ls
-git init
-git add .
-git commit -m "os161 reinstall"
-git push origin master
-logout
-ls
-git init
-git add .
-git commit -m "OS161 intall"
-git remote add origin https://github.com/starlight910/OS161.git
-git remote -v
-git push origin master
-ls
-cd R
-vi README 
-logout
-ls
-cd os161/
-ls
-cd root
-ls
-cd ..
-ls
-cd kern/
-ls
-cd copile
-ls
-cd compile/
-ls
-cd ASST0/
-ls
-cd ../compile/ASST0
-ls
-cd ../compile/ASST0
-cd
-ls
-ls -a
-vi .bash_aliases 
-ls
-ls -a
-ls
-tree
-ls -la
-ls
-logout
-ls
-cd os161/
-ls -la
-cd root
-ls -la
-cd ..
-ls
-cd build
-ls
-cd install
-ls
-cd
-tree
-find -name "bmake"
-ls
-find -name "bmake"
-yum install tree
-sudo apt-get install tree
-brew install tree
-ls
-sudo apt-get install tree
-man tree
-install tree
-ls
-cd ..
-ls
-cd wenben02
-ls
-cd ..
-ls
-cd os161/
-ls
-ls -la
-ls
-logout
-ls
-cd os161/
-ls
-cd ..
-ls
-vi README 
-ls
-cd ..
-ls
-ipconfig
--ipconfig
-ls
-cd sys161
-ls
-cd ..
-ls
-cd os161/
-ls
-cd root/
-ls
-./kernel-ASST0 
-kernel-ASST0
-ls
-cd ..
-ls
-cd
-ls
-vi README 
-sys161 kernel-ASST0
-vi README 
-ls
-cd os161/
-ls
-cd kern/
-sys161 kernel-ASST0
-cd
-ls
-cd os161/
-ls
-cd root/
-ls
-sys161 kernel-ASST0 
-logout
-ls
-cd os161/
-ls
-cd or
-cd root/
-ls
-sys161 kernel-ASST0 
-logout
-ls
-cd os161/
-cscope -k -R
-write asttim22
-ls
-cd ..
-ls
-vi README 
-write asttim22
-sys161 kernel-ASST0
-ls
-cd os161/
-ls
-cd os161/
-sys161 kernel-ASST0
-cd root/
-ls
-sys161 kernel-ASST0
-write asttim22
-ls
-cd os161/
-kls
-ls
-cd root/
-ls
-sys161 kernel-ASST0 
-cscope -k -R
-cd ..
-cscope -k -R
-logout
-ls
-cd os161/
-ls
-cd kern/
-ls
-cd ..
-ls
-cd ngunau30/
-ls
 logout
 git init
 ls
@@ -382,3 +54,447 @@ ls
 cd
 ls
 ls
+cd os161/
+pmake
+cd
+sys161 kernel
+cd os161/
+ls
+cd root/
+ls
+sos kernel
+sys161 kernel
+sys161 kernel-ASST0 
+ls
+pmake depend
+cd
+ls
+pmake cdpend
+pmake depend
+pkame install
+ls
+cd os161/
+ls
+pmake install
+pmake
+ls
+cd kern/
+ls
+cd ..
+ls
+cd root/
+ls
+sys161 kernel
+ls
+tree main
+search
+search main
+search -s main
+search -c main
+ls
+cd man
+ls
+cd ..
+ls
+cd ..
+ls
+cd build/
+ls
+cd install/
+ls
+cd ..
+ls
+cd ..
+ls
+cd sys161/
+ls
+cd ..
+ls
+cd os161/
+ls
+cd design
+ls
+vi shell.txt 
+cd ..
+ls
+cd kern/
+ls
+pmake
+ls
+cd pmake
+ls
+cd build
+ls
+vi build 
+cd ..
+ls
+cd kern/
+ls
+rm build 
+ls
+cd ..
+ls
+pmake
+ls
+cd root/
+ls
+sys161 kernel-ASST0 
+ls
+cd ..
+ls
+pmake
+ls
+cd kern/
+ls
+cd ..
+ls
+cd root/
+ls
+sys161 kernel
+?o
+ls
+sys161 kernel-ASST0 
+ls
+cd ..
+ls
+cd kern/
+ls
+cd compile
+ls
+cd ASST0/
+ls
+pmake
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd root/
+ls
+sys161 kernel
+sys161 kernel-ASST0 
+cd ..
+ls
+cd kern/
+ls
+cd compile/ASST0/
+;ls
+ls
+sys161 kernel
+./kernel 
+pmake depend
+pmake
+pmake install
+cd
+ls
+cd os161/
+ls
+cd root/
+ls
+sys161 kernel
+cd
+ls
+git init
+git add .
+git commit -m "lab3 part2: changing Banner."
+git push
+cd os161/
+ls
+cd kern/
+ls
+startup/
+ls
+cd startup
+ls
+vi main.c 
+vi menu.c 
+vi main.c 
+vi main.c m
+vi main.c 
+ls
+cd ..
+ls
+cd os161/
+ls
+cd root/
+ls
+cd ..
+ls
+cd kern/
+ls
+cd startup/
+ls
+cd os161/
+ls
+vi Makefile 
+ls
+cd root
+ls
+os161 kernel-ASST0 
+sys161 kernel-ASST0 
+ls
+sys161 kernel-ASST0 
+ls
+cd ..
+ls
+cd man
+ls
+cd ..
+ls
+cd design/
+ls
+cd ..
+ls
+cd build/
+ls
+cd ..
+ls
+cd root/
+ls
+cd ..
+ls
+cd ..
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd startup/
+ls
+vi hello.c
+ls
+cd os161/
+ls
+cd ..
+ls
+cd ..
+ls
+cd
+ls
+mkdir compile
+cd compile/
+ls
+vi run
+chmod 755 run
+./run
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd startup/
+ls
+sl
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd startup/
+ls
+vi main.c 
+ls
+vi hello.c 
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd compile/
+ls
+./run 
+ls
+cd ..
+cd os161/
+ls
+cd kern/
+ls
+cd ..
+ls
+cd root/
+ls
+cd ..
+ls
+cd kern/
+ls
+cd compile/ASST0/
+ls
+cd ..
+ls
+cd ..
+ls
+cd startup/
+ls
+vi main.c
+cd
+ls
+cd compile/
+ls
+./run
+cd ..
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd startup/
+ls
+vi main.c 
+ls
+cd ..
+ls
+cd conf/
+ls
+vi conf.kern 
+cd
+ls
+cd compile/
+ls
+./run run 
+./run
+./congif ASST0
+ls
+cd ..
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd conf/
+ls
+./config ASST0
+cd ..
+ls
+cd ..
+ls
+cd
+ls
+cd compile/
+ls
+./run
+cd ..
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd startup/
+ls
+vi main.c 
+cdf
+ls
+cd
+cd compile/
+;s
+ls
+./run
+cd ..
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd startup/
+ls
+vi main.c 
+cd
+cd compile/
+./run
+vi run 
+cd ..
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd include/
+ls
+vi hello.h
+cd
+ls
+cd ..
+cd
+ls
+cd compile/
+ls
+./run
+ls
+cd
+ls
+cd os161/
+ls
+cd kern/
+ls
+cd startup/
+ls
+vi main.c
+cd
+ls
+cd compile/
+./run
+ls
+cd ..
+ls
+cd os161/
+ls
+cd
+gcc compile.c -o compile
+cp compile.c compile
+ls
+compile
+./compile
+bash ./compile
+ls
+logout
+exit
+ls
+bash compile
+ls
+./compile
+make
+make compile
+ls
+/compile
+ls
+cc compile -o compile
+ls
+gcc compile.c -o compile
+cc compile.c -o compile
+ls
+cc compile -o compile
+ls
+cd ..
+ls
+cd compile/
+ls
+./compile.c
+./compile
+bash
+ks
+cd
+exit
+ls
+cd compile/
+ls
+vi compile
+./compile
+ls
+gcc compile
+gcc compile compile 
+ls
+vi compile 
+cp run compile
+ls
+vi compile 
+./compile
+gcc compile compile
+cp compile compile.c
+ls
+gcc compile.c compile
+gcc compile compile.c
+bash
+cd ..
+ls
+logout

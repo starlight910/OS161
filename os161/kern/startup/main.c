@@ -50,6 +50,9 @@
 #include <test.h>
 #include <version.h>
 #include "autoconf.h"  // for pseudoconfig
+#include <hello.h>
+
+#include "opt-A0.h"
 
 
 /*
@@ -104,6 +107,10 @@ boot(void)
 	kprintf("Junho's somewhat system version %s (%s #%d)\n", 
 		GROUP_VERSION, buildconfig, buildversion);
 	
+	kprintf("\n");
+
+	hello() ;
+
 	kprintf("\n");
 
 	/* Early initialization. */
